@@ -105,7 +105,7 @@ def index():
             </div>
         </form>
     </div>
-    <div class="bg-gray-100 flex items-center justify-center -mt-60 p-4">
+    <div class="bg-gray-100 flex items-center justify-center -mt-40 p-4">
         <div class="bg-white p-6 rounded-lg shadow-lg w-full max-w-md text-center">
             <p class="text-md font-semibold">Hasil Cryptarithm</p>
             <p class="text-2xl font-semibold">{{ result }}</p>
